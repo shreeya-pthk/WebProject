@@ -1,5 +1,5 @@
 # hello-world
-Getting start
+Getting started
 
 Hey there!
 I'm just getting started . 
